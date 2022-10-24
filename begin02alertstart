@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>ALERT</title>
+</head>
+<body>
+	
+
+
+
+
+	<script type="text/javascript">
+		let test2=prompt("тебе сколько лет ?");
+		if(test2>20){
+			document.body.style.background="red";
+		}else{
+			document.body.innerHTML="меньше";
+			document.body.style.fontSize="40px";
+			document.body.style.color="green";
+		}
+		// alert(test2)
+		// let test=confirm("ты здесь друг?");
+		// 	alert(test)
+
+	</script>
+
+
+
+</body>
+</html>
