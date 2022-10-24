@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+		
+
+
+	<script type="text/javascript">
+			
+		let year;
+		year=prompt("сколько лет твоему другу");
+
+			if(year>35){
+				alert("ты не знаешь его ")
+			}else if(year==25){
+				alert("красаыкчик ");
+			}else{
+				alert('не угадал')
+			}
+
+
+
+
+
+	</script>
+
+
+
+
+
+</body>
+</html>
