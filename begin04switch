@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+		
+
+
+	<script type="text/javascript">
+			
+		
+
+		
+		let a;
+		a=prompt('2+2')
+
+		switch(a){
+			case '3':
+			alert('маловато');
+			break;
+			case '4':
+			alert('в точку');
+			break;
+			case '5':
+			alert('много');
+			break;
+			default:
+			alert('нет значении такой ')
+		}
+
+
+	</script>
+
+
+
+
+
+</body>
+</html>
