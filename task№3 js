@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<p>
+		Задача. Переделайте приведенный код так, чтобы в нем использовались операции +=, -=, *=, /=, ++, --. Количество строк кода при этом не должно измениться. Код для переделки:
+	</p>
+	<p>var num = 1;<br>
+num = num + 12;<br>
+num = num - 14;<br>
+num = num * 5;<br>
+num = num / 7;<br>
+num = num + 1;<br>
+num = num - 1;<br>
+alert(num);</p>
+
+
+	<script type="text/javascript">
+
+	var num=1;
+	num+=12;
+	num-=14;
+	num*=5;
+	num/=3;
+	num+=1;
+	num-=2;
+	num++;
+	num--;
+	alert(num)
+	
+	</script>
+
+
+
+
+
+</body>
+</html>
