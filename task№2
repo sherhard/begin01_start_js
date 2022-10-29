@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<p>
+		Задача. Напишите скрипт, который считает количество секунд в часе.
+	</p>	
+	<p>Если нам нужно получить количество секунд в сутках, то умножим еще и на 24 (так как в сутках 24 часа):</p>
+
+
+	<script type="text/javascript">
+
+	alert(60*60);//количество секунд в часе:
+	alert(60*60*24)//количество секунд в сутках;
+	
+	</script>
+
+
+
+
+
+</body>
+</html>
