@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<p>
+		Задача. Создайте переменную str и присвойте ей значение 'abcde'. Обращаясь к отдельным символам этой строки выведите на экран символ 'a', символ 'b', символ 'e'.
+	</p>	
+
+
+	<script type="text/javascript">
+
+	let str='abcde';
+	alert(str[0]);
+	alert(str[1]);
+	alert(str[2]);
+	
+	
+	</script>
+
+
+
+
+
+</body>
+</html>
