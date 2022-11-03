@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<p> В переменной min лежит число от 0 до 59. Определите в какую четверть часа попадает это число (в первую, вторую, третью или четвертую).</p>
+
+	<script type="text/javascript">
+		let num=prompt();
+		if(num>=0 && num<=14){
+			alert('one hors')
+		}
+		if(num>=15 && num<=25){
+			alert('two hors')
+		}
+		if(num>=26 && num<=35){
+			alert('three hors');
+		}
+		if(num>=36 && num<=45){
+			alert('four hors');
+		}
+		if(num>46 && num<=59){
+			alert('five hors')
+		}
+	</script>
+
+
+
+
+
+</body>
+</html>
